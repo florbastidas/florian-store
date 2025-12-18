@@ -1,12 +1,16 @@
-# florian-store
-Proyecto web desarrollado con HTML, CSS y Python (Flask).
-Simula una tienda de productos de belleza.
+# Florian Store
 
-## Funcionalidades
-- Página principal
-- Catálogo de productos
-- Carrito de compras (en desarrollo)
-- Diseño responsive
+Proyecto web de una tienda de productos de belleza desarrollado con HTML y CSS.
+
+## Descripción
+Florian Store es un proyecto académico/personal enfocado en la creación de una interfaz web sencilla, clara y funcional.
+
+## Tecnologías utilizadas
+- HTML5
+- CSS3
+
+## Estado del proyecto
+En desarrollo.
 
 ## Autora
 Flor Bastidas
